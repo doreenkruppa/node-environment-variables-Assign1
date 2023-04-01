@@ -1,0 +1,24 @@
+{
+  "name": "environment-variables-assign1",
+  "version": "1.0.0",
+  "description": "This project will allow you to practise using the `process.env` environment variable as well as the `dotenv` package",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doreenkruppa/node-environment-variables-Assign1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doreenkruppa/node-environment-variables-Assign1/issues"
+  },
+  "homepage": "https://github.com/doreenkruppa/node-environment-variables-Assign1#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
